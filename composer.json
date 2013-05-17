@@ -1,3 +1,7 @@
 {
-	"name": "tkambler/tablebuilder"
+	"name": "tkambler/tablebuilder",
+    "require": {
+        "j4mie/idiorm": "*",
+        "alexbilbie/mongoqb": "*"
+    }
 }
